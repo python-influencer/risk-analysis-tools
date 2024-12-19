@@ -1,0 +1,9 @@
+Custom License for [Your Project Name]
+
+1. **Attribution**: You may use, copy, and modify the code, but you must give appropriate credit to the original author (Mohammad Sadegh Khatibpour) in any software or product that uses the code.
+   
+2. **Commercial Use**: You are not permitted to use this code in any commercial software, products, or services without obtaining explicit permission from the author (Mohammad Sadegh Khatibpour).
+
+3. **Patent Use**: You are not allowed to use this code or any part of it to register a patent or related intellectual property.
+
+4. **Modification**: If you modify or improve the code, you must notify the original author (Mohammad Sadegh Khatibpour) with the details of the modifications.
